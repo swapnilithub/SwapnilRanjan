@@ -2,4 +2,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilithub&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=swapnilithub&theme=radical)
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=swapnilithub&theme=radical)
+
