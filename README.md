@@ -1,9 +1,7 @@
 # Hi there, I'm Swapnil! 👋
 
-## Profile Visits 👀
 ![Profile Views](https://komarev.com/ghpvc/?username=swapnilithub&color=brightgreen)
 
-## GitHub Stats 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swapnilithub&show_icons=true&theme=radical)
 
